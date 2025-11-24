@@ -44,5 +44,5 @@ Built with **HTML, CSS, and JavaScript**, using **localStorage** for data persis
 Clone the repository:
 
 ```bash
-git clone https://github.com/Raghav-1303/doctor-scheduler
-cd doctor-scheduler
+git clone https://github.com/Raghav-1303/doctor-appointment
+cd doctor-appointment
