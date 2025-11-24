@@ -26,16 +26,16 @@ Built with **HTML, CSS, and JavaScript**, using **localStorage** for data persis
 `assets/images/appointments.png`
 
 ### 🏥 Header Section
-![Header Section](https://raw.githubusercontent.com/Raghav-1303/doctor-scheduler/tree/main/assets/images/header.png)
+![Header Section](https://raw.githubusercontent.com/Raghav-1303/doctor-appointment/main/assets/images/header.png)
 
 ### 👨‍⚕️ Doctors Section
-![Doctors](https://raw.githubusercontent.com/Raghav-1303/doctor-scheduler/tree/main/assets/images/doctors.png)
+![Doctors](https://raw.githubusercontent.com/Raghav-1303/doctor-appointment/main/assets/images/doctors.png)
 
 ### 📅 Booking Form
-![Booking](https://raw.githubusercontent.com/Raghav-1303/doctor-scheduler/tree/main/assets/images/bookingform.png)
+![Booking](https://raw.githubusercontent.com/Raghav-1303/doctor-appointment/main/assets/images/bookingform.png)
 
 ### 🗂️ Appointments Page
-![Appointments](https://raw.githubusercontent.com/Raghav-1303/doctor-scheduler/tree/main/assets/images/appointments.png)
+![Appointments](https://raw.githubusercontent.com/Raghav-1303/doctor-appointment/main/assets/images/appointments.png)
 
 
 
